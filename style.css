@@ -1,0 +1,25 @@
+#nome{
+    color: #344966;
+    font-family: Helvetica;
+  }
+
+  body{
+    background-color: #F0F4EF;
+  }
+
+  #Photoshop{
+    font-size: 20;
+  }
+
+  .fonte2{
+    font-family: Verdana;
+  }
+
+  .destaque{
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  .tamanho{
+    font-size: 14px;
+  }
