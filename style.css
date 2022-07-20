@@ -1,25 +1,54 @@
 #nome{
     color: #344966;
     font-family: Helvetica;
+    text-align: center;
+
   }
 
-  body{
+#descricao {
+  position: absolute;
+  top: 40%;
+  right: 15%;
+}
+
+body{
     background-color: #F0F4EF;
+    padding: 3%;
   }
 
-  #Photoshop{
+#Photoshop{
     font-size: 20;
   }
 
-  .fonte2{
+.fonte2{
     font-family: Verdana;
   }
 
-  .destaque{
+.destaque{
     font-weight: bold;
     font-style: italic;
   }
 
-  .tamanho{
+.tamanho{
     font-size: 14px;
   }
+
+#foto {
+  float: left;
+  height: 437px;
+  padding: 10px;
+  background-color: black;
+}
+
+.image-container {
+  height: 457px;
+  position: relative;
+}
+
+div {
+  border: 3px solid black;
+}
+
+ul li:nth-child(odd) {
+  background-color: paleturquoise;
+}
